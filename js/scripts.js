@@ -1,5 +1,5 @@
 
-var f = function(){
+var tab = function(){
     var tabela = document.createElement("table");
     var x = document.getElementById("linhas").value;
     var y = document.getElementById("colunas").value;
